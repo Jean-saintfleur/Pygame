@@ -1,0 +1,2 @@
+- Alien Invasion game
+- The goal of the game is to shoot down aliens as they drop down the screen, in levels that increase in speed and in difficult.
